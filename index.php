@@ -109,10 +109,10 @@
         </div>
     </section>
 
-    <!-- Services Section -->
+<!-- Services Section -->
 <section id="services" class="p-8 bg-gray-100">
     <h2 class="text-3xl font-bold mb-6"><i class="fas fa-tools"></i> Our Services</h2>
-    <p class="text-lg mb-8">We offer a wide range of pest control services tailored to meet your specific needs. Whether you're dealing with rodents, termites, or agricultural pests, we have the expertise to handle it all.</p>
+    <p class="text-lg mb-8">We offer a wide range of pest control, landscaping, office supplies, and general services tailored to meet your specific needs. Whether you're dealing with pests, landscaping projects, or office requirements, we have the expertise to handle it all.</p>
     <div class="service-list grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="service-item p-6 bg-white rounded-lg shadow-md">
             <i class="fas fa-home text-3xl text-blue-600 mb-4"></i>
@@ -129,11 +129,32 @@
             <h3 class="text-xl font-semibold mb-3">Termite Control</h3>
             <p>Advanced termite detection and elimination services with long-term protection plans.</p>
         </div>
+        <div class="service-item p-6 bg-white rounded-lg shadow-md">
+            <i class="fas fa-leaf text-3xl text-green-600 mb-4"></i>
+            <h3 class="text-xl font-semibold mb-3">Landscaping Services</h3>
+            <p>Transform your outdoor spaces into beautiful and functional areas with our landscape design and installation services.</p>
+        </div>
+        <div class="service-item p-6 bg-white rounded-lg shadow-md">
+            <i class="fas fa-tint text-3xl text-green-600 mb-4"></i>
+            <h3 class="text-xl font-semibold mb-3">Irrigation System Installation</h3>
+            <p>Install efficient irrigation systems to ensure your garden thrives with minimal water usage.</p>
+        </div>
+        <div class="service-item p-6 bg-white rounded-lg shadow-md">
+            <i class="fas fa-pencil-alt text-3xl text-gray-600 mb-4"></i>
+            <h3 class="text-xl font-semibold mb-3">Office Stationery and Supplies</h3>
+            <p>From paper to printers, we provide a full range of office supplies, tailored to meet the needs of your business.</p>
+        </div>
+        <div class="service-item p-6 bg-white rounded-lg shadow-md">
+            <i class="fas fa-tools text-3xl text-gray-600 mb-4"></i>
+            <h3 class="text-xl font-semibold mb-3">General Supplies</h3>
+            <p>We offer a wide range of cleaning products, safety equipment, and tools for personal and professional use.</p>
+        </div>
     </div>
     <a href="#contact" class="cta-button inline-block mt-8 px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
         <i class="fas fa-arrow-right mr-2"></i> Learn More About Our Services
     </a>
 </section>
+
 
 <!-- Products Section -->
 <section id="products" class="p-8">
@@ -224,11 +245,11 @@
             <div class="contact-info">
                 <div class="info-item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <p><strong>Address:</strong> 123 Pest Control Road, Lusaka, Zambia</p>
+                    <p><strong>Address:</strong>Lusaka, Zambia</p>
                 </div>
                 <div class="info-item">
-                    <i class="fas fa-phone-alt"></i>
-                    <p><strong>Phone:</strong> +260 123 456 789</p>
+                    <!-- <i class="fas fa-phone-alt"></i> -->
+                    <!-- <p><strong>Phone:</strong> +260 123 456 789</p> -->
                 </div>
                 <div class="info-item">
                     <i class="fas fa-envelope"></i>
@@ -282,9 +303,9 @@
                     <button type="submit"><i class="fas fa-paper-plane"></i></button>
                 </form> -->
                 <div class="contact-info">
-                    <p><i class="fas fa-phone"></i> +260 123 456 789</p>
+                    <!-- <p><i class="fas fa-phone"></i> +260 123 456 789</p> -->
                     <p><i class="fas fa-envelope"></i> info@swisstechzambia.com</p>
-                    <p><i class="fas fa-map-marker-alt"></i> 123 Pest Control Road, Lusaka, Zambia</p>
+                    <p><i class="fas fa-map-marker-alt"></i>Lusaka, Zambia</p>
                 </div>
             </div>
         </div>
